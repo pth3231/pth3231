@@ -19,6 +19,5 @@ Something about me:
 - 💻 I'm actively working as a Data Science learner, with a bit lack of experiences
 - 🇻🇳 I'm a native speaker and living in Vietnam, but I can understand and response with my intermidiate English skill
 
-<div>
-    ![pth3231's GitHub stats](https://github-readme-stats.vercel.app/api?username=pth3231&show_icons=true&theme=transparent)
-</div>
+
+![pth3231's GitHub stats](https://github-readme-stats.vercel.app/api?username=pth3231&show_icons=true&theme=transparent)
