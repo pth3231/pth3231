@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-<!--
-**pth3231/pth3231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://twitter.com/HGanyu_pth" style="margin-right: 5px;">
+    <img src="./imgs/twitter.png" height="32"/>
+  </a>
+  <a href="https://www.kaggle.com/hganyu" style="margin-right: 5px;">
+    <img src="./imgs/kaggle.jfif" height="32"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+Welcome to my personal GitHub page, where I'd like to create, manage and self-learning many interesting Machine Learning & Deep Learning projects.
+<br/>
+Something about me:
+- 👨‍💻 My nickname is HGanyu (which was formed when I was young 😁)
+- 🏫 I'm currently learning at FPT High School Da Nang
+- 💻 I'm actively working as a Data Science learner, with a bit lack of experiences
+- 🇻🇳 I'm a native speaker and living in Vietnam, but I can understand and response with my intermidiate English skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![pth3231's GitHub stats](https://github-readme-stats.vercel.app/api?username=pth3231&show_icons=true&theme=transparent)
 
-<p>
-  
-</p>
