@@ -21,7 +21,7 @@
 
 <ul style="font-family: monospace"> 
   <li>Frontend: HTML, CSS, JS</li>
-  <li>Backend: NodeJS, C++, Go</li>
+  <li>Backend: NodeJS (TypeScript), C++, Go</li>
   <li>Frameworks: ReactJS, Next.JS, ExpressJS, Crow</li>
   <li>Database: MongoDB, MySQL, PostgreSQL, MS SQL, MariaDB</li>
   <li>Containerization: Docker</li>
