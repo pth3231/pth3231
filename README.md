@@ -16,13 +16,5 @@
 </p>
 
 <p style="font-family: monospace">
-  This is my own repos where I post my projects on. I am working on several technologies, such as:
+  This is my own repos where I post my projects on.
 </p>
-
-<ul style="font-family: monospace"> 
-  <li>Frontend: HTML, CSS, JS</li>
-  <li>Backend: NodeJS (TypeScript), C++, Go, Python</li>
-  <li>Frameworks: ReactJS, Next.JS, ExpressJS, Crow</li>
-  <li>Database: MongoDB, MySQL, PostgreSQL, MS SQL, MariaDB</li>
-  <li>Containerization: Docker</li>
-</ul>
