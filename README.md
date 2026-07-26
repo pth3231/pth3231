@@ -13,11 +13,12 @@
 
   ### 👨‍ About Me
 
-  Undergraduate in **Informatics** at **Hanoi University of Science and Technology 
-  (HUST)**. I build backend systems end-to-end — from the API and data model down to the
-  containers, pipelines, and observability that keep them running in production. I care
-  about services that are correct *and* operable. I want to deliver not only a runnable application, 
-  but also deploying, serving, scaling, and monitoring them reliably.
+  With 1 year of undergraduate in **Informatics** at **Hanoi University of Science and Technology 
+  (HUST)**, and studying in **International Christian University**, majoring **Information Sciences**. 
+  I focus on building backend systems end-to-end — from the API and data model down to the
+  containers, pipelines, and observability that keep them running in production, with additional 
+  understanding of frontend development. I care about services that are correct *and* operable. 
+  I want to deliver not only a runnable application, but also deploying, serving, scaling, and monitoring them reliably.
 
   - 🔭 Currently shipping **full-stack apps with production-grade infrastructure** —
   Dockerized, monitored, and exposed to the web.
