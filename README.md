@@ -1,24 +1,46 @@
-📫 **Connect with me:**
-<div>
-  <a href="https://www.linkedin.com/in/hganyu/" style="margin-right: 5px;">
-    <img src="./imgs/linkedin.svg" height="40" width="40"/>
-  </a>
-  <a href="https://www.kaggle.com/hganyu" style="margin-right: 5px;">
-    <img src="./imgs/kaggle.jfif" height="40" width="40"/>
-  </a>
-</div>
+<h1 align="center">Hi there 👋, I'm Phan Thái Hòa (Haven)</h1>
+  <h3 align="center">Full-stack Software Engineer · DevOps & Infrastructure </h3>
 
+  <p align="center">
+    <a href="https://github.com/pth3231">Github</a>
+     · 
+    <a href="https://www.linkedin.com/in/hganyu/">Linkedin</a>
+     · 
+    <a href="https://www.kaggle.com/hganyu">Kaggle</a>
+  </p>
 
-# Hi there 👋, I'm Phan Thái Hòa (Haven)
+  ---
 
-Welcome to my GitHub space! I am currently an undergraduate student at Hanoi University of Science and Technology (HUST), majoring in Informatics. This is my personal repository where I share my codebase, experiments, and passion for building practical tech solutions.
+  ### 👨‍ About Me
 
-## 🎓 About Me
-- 🔭 I'm actively studying and building projects in **Machine Learning**, **Deep Learning**, and **Web Development**.
-- 💡 I enjoy applying AI and data science to create tools for daily utilities and automation.
-- 🌱 Always eager to learn new architectures and deployment workflows.
+  Undergraduate in **Informatics** at **Hanoi University of Science and Technology 
+  (HUST)**. I build backend systems end-to-end — from the API and data model down to the
+  containers, pipelines, and observability that keep them running in production. I care
+  about services that are correct *and* operable. I want to deliver not only a runnable application, 
+  but also deploying, serving, scaling, and monitoring them reliably.
 
-## 🛠️ Tech Stack & Interests
-- **AI / Machine Learning:** Scikit-Learns, PyTorch
-- **Software Engineering:** SQL, Python (FastAPI), Nodejs (Express, NextJS, React), C/C++
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Cronjobs, Linux environments
+  - 🔭 Currently shipping **full-stack apps with production-grade infrastructure** —
+  Dockerized, monitored, and exposed to the web.
+  - 🌱 Deepening my grip on **observability, CI/CD, and infrastructure automation**.
+    
+  ### 🛠️  Tech Stack
+
+  **Languages**
+  `Python` · `TypeScript / JavaScript` · `C / C++` · `SQL` · `Go`
+
+  **Backend**
+  `Node.js (Express)` · `Python (FastAPI)` · `REST` · `MongoDB / Mongoose`
+
+  **Frontend**
+  'HTML/CSS' · `ReactJS` · `Next.js` · `Vite` · `Tailwind` · `Zustand`
+
+  **DevOps & Infrastructure**
+  `Docker` · `Docker Compose` · `CI/CD (Github Actions)` · `Cloudflare Tunnel` · `Linux` · `GCP/AWS` · `Git Server (GitLab)`
+
+  **Observability & Testing**
+  `Prometheus` · `Grafana` · `cAdvisor` · `k6` · `Vitest`
+
+  ### 📈 What I'm Exploring Next
+
+  `Kubernetes` · `GitOps (ArgoCD)` · `Terraform` · `Jenkins` · `Java` · `.NET` · `System Design`
+  
