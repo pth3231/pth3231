@@ -32,7 +32,7 @@
   `Node.js (Express)` · `Python (FastAPI)` · `REST` · `MongoDB / Mongoose`
 
   **Frontend**
-  'HTML/CSS' · `ReactJS` · `Next.js` · `Vite` · `Tailwind` · `Zustand`
+  `HTML/CSS` · `ReactJS` · `Next.js` · `Vite` · `Tailwind` · `Zustand`
 
   **DevOps & Infrastructure**
   `Docker` · `Docker Compose` · `CI/CD (Github Actions)` · `Cloudflare Tunnel` · `Linux` · `GCP/AWS` · `Git Server (GitLab)`
